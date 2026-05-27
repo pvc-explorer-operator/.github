@@ -1,10 +1,10 @@
 
 <p align="center">
-	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="./docs/branding/logo.svg">
-		<source media="(prefers-color-scheme: light)" srcset="./docs/branding/logo-light.svg">
-		<img src="./docs/branding/logo.svg" alt="pvc-explorer logo" width="280">
-	</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile/docs/branding/logo.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile/docs/branding/logo-light.svg">
+    <img src="profile/docs/branding/logo.svg" alt="pvc-explorer logo" width="280">
+  </picture>
 </p>
 
 # Welcome to the PVC Explorer Operator Organization
