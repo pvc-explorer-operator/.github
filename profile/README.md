@@ -42,9 +42,17 @@ We welcome contributions of all kinds! Check out the repositories above to get s
 
 ---
 
-## About
 
-This organization is an experiment in human–AI collaboration, with much of the code and documentation developed using AI-based tools. We believe in open source, transparency, and making Kubernetes storage easier for everyone.
+## Open Source & Security Commitment
+
+We strive to follow best practices for open source projects, including compliance with the [EU Cyber Resilience Act (CRA)](https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act) and [OpenSSF](https://openssf.org/) recommendations. Our repositories include directives and documentation for CRA and OpenSSF classification where possible.
+
+We are committed to:
+- Transparency and open collaboration
+- Security best practices and responsible disclosure
+- Continuous improvement based on [opensource.guide](https://opensource.guide/) and [OpenSSF](https://openssf.org/) guidance
+
+If you have suggestions or concerns about compliance or security, please open an issue or contact the maintainers.
 
 ---
 
