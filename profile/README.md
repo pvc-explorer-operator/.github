@@ -30,6 +30,10 @@ A standalone mockup of the PVC Explorer UI for preview and testing. No real Kube
 - [Repository](https://github.com/pvc-explorer-operator/demo)
 - [Live Demo Site](https://demo.pvc-explorer-operator.ricardoleal.me)
 
+### 4. kubectl-pvc-explorer
+A kubectl plugin for exploring PersistentVolumeClaims directly from the command line. It provides a terminal-based file browser that lets you navigate PVC contents without leaving your terminal.
+- [Repository](https://github.com/pvc-explorer-operator/kubectl-pvc-explorer)
+
 ---
 
 ## Community & Contribution
